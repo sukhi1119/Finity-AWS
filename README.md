@@ -17,3 +17,5 @@ Install venv
 Create venv and install jupyter notebook
 
 Run it in a screen
+
+Edit TEST*
