@@ -8,7 +8,7 @@ Install WSL1
 
 `sudo apt-get update`
 
-`sudp apt-get upgrade`
+`sudo apt-get upgrade`
 
 Install venv 
 
